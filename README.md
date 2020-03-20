@@ -1,11 +1,11 @@
 # COVID-FR
 
-Liste des projets open-source pour pallier très rapidement à la crise sanitaire du COVID-19.
+Liste des projets open-source pour pallier rapidement à la crise sanitaire du COVID-19.
 
 ## Présentation
 
 - Plusieurs efforts open-source collaboratifs sont en cours et la communauté makers / hackers se mobilise pour tenter de pallier très rapidement au manque critique de matériel.
-- J’ai cofondé une NGO médicale il y plus de 10 ans [Action Aide Asie](http://actionaideasie.com/) avec lequel j’ai fait plusieurs dizaines de missions en Asie du Sud-Est et je m’occupe également d’une association de précarité lourde en milieu hospitalier en France. [Amis des Malades](http://amisdesmalades.com/)
+- J’ai cofondé une NGO médicale il y plus de 10 ans [Action Aide Asie](http://actionaideasie.com/) avec lequel j’ai fait plusieurs dizaines de missions en Asie du Sud-Est, je m’occupe également d’une association de précarité lourde en milieu hospitalier en France. [Amis des Malades](http://amisdesmalades.com/)
 - Mon oncle Christophe est responsable de l’hôpital COVID-19 de Calot et son fils Romain est en première ligne comme médecin militaire urgentiste dans l’Est. Je suis en contact avec eux et ils ont manifesté le besoin urgent de certains équipements.
 - L'expérience que j'ai acquise du système de santé des pays en voie de développement lors de mes missions montre le courage et la capacité d'adaptation des médecins face à la pénurie d'équipement, ces mêmes qualités dont nous avons besoin maintenant en France.
 
@@ -22,6 +22,11 @@ Liste des projets open-source pour pallier très rapidement à la crise sanitair
 - Plusieurs gouvernements, entreprises et particuliers dans le monde travaillent au prototypage et à la fabrication rapide de ces équipements.
 - La France dispose d'un large parc d'imprimantes 3D, de fraiseuses numériques et de capacité de production à la demande qui pourraient être mobilisées en quelques heures / jours.
 - La mobilisation de ces capacités de production pourrait permettre la réalisation très rapide de matériel pour protéger nos soignants et éviter de nombreuses pertes humaines.
+  
+## Liste des appels à projet / concours internationaux COVID
+
+- [Ministère de la Défense FR](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
+- [Université Mc Gill Canada](https://www.agorize.com/fr/challenges/code-life-challenge)
 
 ## Logistique
 
@@ -95,17 +100,17 @@ Une communauté active de plusieurs dizaines de personnes travaille dèjà (en a
 - **CAHIER DES CHARGES**
   - PLA ou impression dans un matériel pro avec Sculpteo
 - **BESOINS**
-  - Les tailles sont-elles standardisées? Certains modèles ne peuvent-il supporter qu'une personne?
+  - Besoin de connaitre les modèles des hôpitaux français, les tailles d'entrée, sortie pour le design paramétrique.
+  - A quel point cela gène-t'il les patients?
 
 #### Respirateurs vétérinaires (Statut: En cours)
 
-- **PRESENTATION** L'Angleterre a visiblement déjà réquisitionné certains ventilateurs vétérinaires qui possèdent des caractéristiques proches de ceux pour les humains.
+- **PRESENTATION** Il semblerait que les anglais aient réquisitionné certains ventilateurs vétérinaires possèdant des caractéristiques proches de ceux pour les humains.
 
 ### Projet d'adaptation de respirateur CPAP (Statut: Avancé)
 
-- **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19.
+- **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. C'est le projet actuel qui semble le plus avancé.
 - **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
-- **AUTRES** Mc Gill démarre un concours de design sur la base de se projet: [Page du Concours](https://www.agorize.com/fr/challenges/code-life-challenge)
 
 ### AUTRES
 
@@ -133,7 +138,7 @@ Le design collaboratif médical existe déjà avec des projets de matériel libr
 `Avez-vous en tête un objectif de date pour lancer une production?`
 La production pourrait commencer instantément une fois les modèles 3D basiques conçus avec la possibilité d’une amélioration de la qualité des pièces avec le retour des utilisateurs suivant le modèle open-source.
 
-Les étapes de ce circuit court en heures / jours pourraient être :
+Les étapes de ce circuit court en heures / jours pourraient être:
 • Dessin paramétrique 3D d’un modèle basique fonctionnel
 • Validation par un panel d’experts et ingénieurs confinés ou à la retraite
 • Publication du modèle 3D libre de droit sur des plateforme de distribution comme GitHub ou Thingiverse.
