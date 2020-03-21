@@ -64,11 +64,19 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 
 - **PRESENTATION** Une visière de protection simple créée par des ingénieurs polonais avec seulement une découpeuse laser.
 - **SITE** [Hackaday](https://hackaday.io/project/170481-laser-cut-medical-shield)
+- **VALIDATION** Projet non validé mais proche de la visière PRUSA.
 - **TEMPS PAR UNITE** 1h30 de découpe sur machine de faible puissance
 - **CAHIER DES CHARGES**
   - Feuille de PETG 0.5mm (tout plastique transparent fin équivalent)
   - Deux élastiques de 9cm de diamètre.
 - **PRIX PAR UNITE** 1-2€
+
+#### Masque de protection FPP2 jetable imprimé 3D (Statut: Non validé)
+
+- **PRESENTATION** Impression d'un masque N95 (FPP2) utilisant du filament Copper3D qui semblerait indiqué pour le matériel médical.
+- **SITE** [Masque N95](https://www.atome3d.com/blogs/news/hackthepandemic-creez-votre-masque-3d)
+- **VALIDATION** Non validé
+- **PRIX PAR UNITE** 5€
 
 #### Projet de masque réutilisables à pression positive PAPR (Statut: En cours)
 
