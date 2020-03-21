@@ -36,6 +36,11 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 - Un des principaux problèmes est l'acheminement des matériels fabriqués vers les hôpitaux et ceux qui en ont besoin. On pourrait imaginer que la Poste, les livreurs ou un autre service récupère la production des particuliers et l'achemine vers les hôpitaux locaux.
 - On pourrait imaginer de petites unités de production de quelques imprimantes situées dans/à coté des hôpitaux qui produiraient en flux tendu les éléments nécessaires pour le personnel soignant.
 
+## Précautions de fabrication
+
+- Les éléments produits doivent être fabriqués avec port de masque et de gants et les pièces rapidement emballées dans des sacs zip stériles et hermétiques pour éviter d'envoyer du matériel potentiellement contaminé.
+- La durée de vie du virus sur le plastique étant de 2-3 jours, le matériel devra être porté 2-3 jours après sa fabrication pour garantir qu'il n'y ai pas de contamination.
+
 ---
 
 ## Liste des projets intéressants
@@ -73,7 +78,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Feuille de PETG 0.5mm (tout plastique transparent fin équivalent)
   - Deux élastiques de 9cm de diamètre.
 - **PRIX PAR UNITE** 1-2€
-- ![Visière Laser](/assets/images/visiere-laser.png "Visière Laser")
+![Visière Laser](/assets/images/visiere-laser.png "Visière Laser")
 
 #### Masque de protection FPP2 jetable imprimé 3D (Statut: Non validé)
 
@@ -81,6 +86,8 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **SITE** [Masque N95](https://www.atome3d.com/blogs/news/hackthepandemic-creez-votre-masque-3d)
 - **VALIDATION** Non validé
 - **PRIX PAR UNITE** 5€
+![Masque Copper](/assets/images/masque-copper-1.png "Masque Copper")
+![Masque Copper](/assets/images/masque-copper-2.png "Masque Copper")
 
 #### Projet de masque réutilisables à pression positive PAPR (Statut: En cours)
 
