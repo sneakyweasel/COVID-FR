@@ -21,7 +21,7 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
       3. [Masque Copper](#masque-copper)
       4. [PAPR](#papr)
    2. [Respirateurs](#liste-respirateurs)
-      1. [Valve dédoublement](#valve-dedoublement)
+      1. [Valve de dédoublement](#valve-dedoublement)
       2. [Respirateur vétérinaire](#respirateur-veterinaire)
       3. [Respirateur CPAP](#respirateur-cpap)
    3. [Autres]
@@ -91,7 +91,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 #### Visière de protection imprimées Prusa (Statut: OK) <a name="visiere-prusa"></a>
 
 - **PRESENTATION** Le retour des médecins urgentistes "au front" montre qu'il y a de nombreuses projections par les patients et une forte chance de contamination du personnel soignant. Les autres personnes exposées comme les médecins de ville, caissiers, etc. pourrait également bénéficier de ces visières. La production par les particuliers a déjà commencé, manque la logistique.
-- **SITE** [Visière PRUSA](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1)
+- **SITE** <https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1>
 - **VALIDATION** Ce projet a été validé par le ministère de la Santé Tchèque.
 - **TEMPS PAR UNITE** 2h / imprimante
 - **CAHIER DES CHARGES**
@@ -110,7 +110,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 #### Visière de protection minimale par découpe laser (Statut: OK) <a name="visiere-laser"></a>
 
 - **PRESENTATION** Une visière de protection simple créée par des ingénieurs polonais avec seulement une découpeuse laser.
-- **SITE** [Hackaday](https://hackaday.io/project/170481-laser-cut-medical-shield)
+- **SITE** <https://hackaday.io/project/170481-laser-cut-medical-shield>
 - **VALIDATION** Projet non validé mais proche de la visière PRUSA.
 - **TEMPS PAR UNITE** 1h30 de découpe sur machine de faible puissance
 - **CAHIER DES CHARGES**
@@ -127,7 +127,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 #### Masque de protection FPP2 jetable imprimé 3D (Statut: Non validé) <a name="masque-copper"></a>
 
 - **PRESENTATION** Impression d'un masque N95 (FPP2) utilisant du filament Copper3D qui semblerait indiqué pour le matériel médical.
-- **SITE** [Masque N95](https://www.atome3d.com/blogs/news/hackthepandemic-creez-votre-masque-3d)
+- **SITE** <https://www.atome3d.com/blogs/news/hackthepandemic-creez-votre-masque-3d>
 - **VALIDATION** Non validé
 - **TEMPS PAR UNITE** 2h 30
 - **CAHIER DES CHARGES**
@@ -181,7 +181,7 @@ Une communauté active de plusieurs centaines de personnes travaille dèjà (en 
 #### Valve de dédoublement des respirateurs médicaux (Statut: OK) <a name="valve-dedoublement"></a>
 
 - **PRESENTATION** Si les patients ont environ le même volume pulmonaire il est possible d'alimenter jusqu'à 4 patients avec le même respirateur sans trop leur nuire. Cela augmente potentiellement la capacité de réanimation ventilatoire existante. [Article Hackaday](https://hackaday.com/2020/03/19/saving-4-patients-with-just-1-ventilator/), [Vidéo](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
-- **VALIDATION** Oui (Publication: <https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009>)
+- **VALIDATION** Oui avec réserves (Publication: <https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009>)
 - **SITE** [Fichiers 3D](https://github.com/Judoguy12/4-way-ventilator)
 - **TEMPS PAR UNITE** environ 10h
 - **PRIX PAR UNITE** 2€
@@ -191,11 +191,7 @@ Une communauté active de plusieurs centaines de personnes travaille dèjà (en 
   - Besoin de connaitre les modèles des hôpitaux français, les tailles d'entrée, sortie pour le design paramétrique.
   - A quel point cela gène-t'il les patients?
 
----
-
-#### Respirateurs vétérinaires <a name="respirateur-veterinaire"></a> (Statut: En cours)
-
-- **PRESENTATION** Il semblerait que les anglais aient réquisitionné certains ventilateurs vétérinaires possèdant des caractéristiques proches de ceux pour les humains.
+![Valve de dédoublement](/assets/images/valve-dedoublement.png "2-way valve")
 
 ---
 
@@ -204,7 +200,15 @@ Une communauté active de plusieurs centaines de personnes travaille dèjà (en 
 - **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. C'est le projet actuel qui semble le plus avancé, le matériel est déja homologué (pas ses modifications).
 - **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
 
+![Respirateur CPAP](/assets/images/respirateur-cpap.png "respirateur CPAP")
+
+---
+
 ### AUTRES
+
+#### Respirateurs vétérinaires <a name="respirateur-veterinaire"></a> (Statut: En cours)
+
+- Il semblerait que les anglais aient réquisitionné certains ventilateurs vétérinaires possèdant des caractéristiques similaires à celles des respirateurs "humains".
 
 - L’impression 3D pourrait également permettre d’imprimer localement les différents éléments : valves, etc. dont les hôpitaux pourraient avoir besoin comme le cas italien des valves à 10.000€
 
