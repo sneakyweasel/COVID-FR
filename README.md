@@ -200,7 +200,7 @@ Une communauté active de plusieurs centaines de personnes travaille dèjà (en 
 - **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. C'est le projet actuel qui semble le plus avancé, le matériel est déja homologué (pas ses modifications).
 - **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
 
-![Respirateur CPAP](/assets/images/respirateur-cpap.png "respirateur CPAP")
+![Respirateur CPAP](/assets/images/respirateur-cpap.jpg "respirateur CPAP")
 
 ---
 
