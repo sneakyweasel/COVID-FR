@@ -30,16 +30,14 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 ## Présentation <a name="presentation"></a>
 
 - Plusieurs efforts open-source collaboratifs sont en cours et la communauté makers / hackers se mobilise pour tenter de pallier très rapidement au manque critique de matériel.
-- J’ai cofondé une NGO médicale il y plus de 10 ans [Action Aide Asie](http://actionaideasie.com/) avec lequel j’ai fait plusieurs dizaines de missions en Asie du Sud-Est, je m’occupe également d’une association de précarité lourde en milieu hospitalier en France. [Amis des Malades](http://amisdesmalades.com/)
-- Mon oncle Christophe est responsable d'un hôpital COVID-19 dans le Nord et son fils Romain est en première ligne comme médecin militaire urgentiste dans l’Est. Je suis en contact avec eux.
-- L'expérience que j'ai acquise du système de santé des pays en voie de développement lors de mes missions montre le courage et la capacité d'adaptation des médecins face à la pénurie d'équipement, ces mêmes qualités dont nous avons besoin maintenant en France.
+- Ce projet vise à lister les projets internationaux et leur état d'avancement, les traduire en français et à mobiliser les personnes ayant du matériel de production accessible. (voir FAQ)
 
 ## Situation <a name="situation"></a>
 
 - Une pénurie de matériel médical de protection et de ventilateurs de réanimation est en cours et devrait conduire à de très nombreux decès potentiellent évitables.
 - Des capacités de production rapide grâce aux techniques d'impression 3D et de prototypage rapide existent en France et pourraient être mobilisées en quelques jours.
 - Les autres pays industriels sont dans la même situation que nous et il ne faut pas espérer d'aide internationale rapide.
-- Le fort ralentissement de l'industrie chinoise va également entrainer des pénuries d'approvisionnement de pièces nécessaires au fonctionnement de notre système de santé.
+- Le fort ralentissement de l'industrie chinoise pourrait également entrainer des pénuries d'approvisionnement de pièces nécessaires au fonctionnement du matériel de notre système de santé.
 
 ## Collaboration <a name="collaboration"></a>
 
@@ -60,7 +58,7 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 
 ## Précautions de fabrication <a name="precautions"></a>
 
-- Les éléments produits doivent être fabriqués avec port de masque et de gants et les pièces rapidement emballées dans des sacs zip stériles et hermétiques pour éviter d'envoyer du matériel potentiellement contaminé.
+- Les éléments produits doivent être fabriqués avec port de masque et de gants et les pièces rapidement emballées dans des sacs zip hermétiques pour éviter d'envoyer du matériel potentiellement contaminé.
 - La durée de vie du virus sur le plastique étant de 2-3 jours, le matériel devra être porté 2-3 jours après sa fabrication pour garantir qu'il n'y ai pas de contamination.
 
 ## Contribuer maintenant <a name="contribuer"></a>
@@ -93,16 +91,16 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **PRESENTATION** Le retour des médecins urgentistes "au front" montre qu'il y a de nombreuses projections par les patients et une forte chance de contamination du personnel soignant. Les autres personnes exposées comme les médecins de ville, caissiers, etc. pourrait également bénéficier de ces visières. La production par les particuliers a déjà commencé, manque la logistique.
 - **SITE** [Visière PRUSA](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1)
 - **VALIDATION** Ce projet a été validé par le ministère de la Santé Tchèque.
-- **TEMPS PAR UNITE** 2h / imprimante soit 12 visières / jour / imprimante
+- **TEMPS PAR UNITE** 2h / imprimante
 - **CAHIER DES CHARGES**
-  - PLA / PETG
+  - 32g de filament PLA / PETG
   - Feuille de plexiglass (ou autre) de 0.5mm
   - Rouleau de bande élastique
+  - Perforeuse de bureau
 - **PRIX PAR UNITE** 1-2€
 - **BESOINS**
-  - Fabriquants / distributeurs de feuille plastique transparent d'environ 5mm
+  - Fabriquants / distributeurs de feuille de plastique transparent d'environ 0.5mm d'épaisseur.
   - Imprimantes de particuliers / mise à disposition des parcs d'imprimantes à la demande (FabLab, particuliers, services à la demande, etc.)
-  - Solution logistique pour les faire arriver rapidement au personnel soignant malgré le confinement.
  ![Visière PRUSA RC2](/assets/images/prusa-rc2.png "PRUSA RC2")
 
 #### Visière de protection minimale par découpe laser (Statut: OK) <a name="visiere-laser"></a>
@@ -154,10 +152,12 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - besoin de retour sur la stérilisation (eau bouillante, alcool, UV, impact sur les plastiques et silicones à voir ?)
   - besoin d'ingénieurs et de spécialiste de mécanique des fluides
 
+---
+
 ### RESPIRATEURS D'URGENCE <a name="liste-respirateurs"></a>
 
 Les anglais estiment visiblement à 25000 le pic de besoin en respirateurs, il en ont visiblement 5000 disponibles. Plusieurs idées et projets pourraient être d’une utilité vitale.
-Une communauté active de plusieurs dizaines de personnes travaille dèjà (en anglais) sur ces projets [ProjectOpenAir](https://www.projectopenair.org/)
+Une communauté active de plusieurs centaines de personnes travaille dèjà (en anglais) sur ces projets [Helful Engineer](https://github.com/Helpful-Engineers/resources)
 
 #### Valve de dédoublement des respirateurs médicaux (Statut: OK) <a name="valve-dedoublement"></a>
 
@@ -208,10 +208,17 @@ Le design collaboratif médical existe déjà avec des projets de matériel libr
 La production pourrait commencer instantément une fois les modèles 3D basiques conçus avec la possibilité d’une amélioration de la qualité des pièces avec le retour des utilisateurs suivant le modèle open-source.
 
 Les étapes de ce circuit court en heures / jours pourraient être:
-• Dessin paramétrique 3D d’un modèle basique fonctionnel
-• Validation par un panel d’experts et ingénieurs confinés ou à la retraite
-• Publication du modèle 3D libre de droit sur des plateforme de distribution comme GitHub ou Thingiverse.
-• Téléchargement du modèle 3D par les parcs d’imprimantes / particuliers 
-• Impression des pièces dans l’hôpital ou livraison express
-• Retour des soignants sur les défauts / amélioration des pièces produites.
-• Nouveau cycle de dessin, d’amélioration, impression et distribution pour la v2, v3, etc. tous les quelques jours.
+
+- Dessin paramétrique 3D d’un modèle basique fonctionnel
+- Validation par un panel d’experts et ingénieurs confinés ou à la retraite
+- Publication du modèle 3D libre de droit sur des plateforme de distribution comme GitHub ou Thingiverse.
+- Téléchargement du modèle 3D par les parcs d’imprimantes / particuliers 
+- Impression des pièces dans l’hôpital ou livraison express
+- Retour des soignants sur les défauts / amélioration des pièces produites.
+- Nouveau cycle de dessin, d’amélioration, impression et distribution pour la v2, v3, etc. tous les quelques jours.
+
+`Qui êtes-vous?`
+
+- J’ai cofondé une NGO médicale il y plus de 10 ans [Action Aide Asie](http://actionaideasie.com/) avec lequel j’ai fait plusieurs dizaines de missions en Asie du Sud-Est, je m’occupe également d’une association de précarité lourde en milieu hospitalier en France. [Amis des Malades](http://amisdesmalades.com/)
+- Mon oncle Christophe est responsable d'un hôpital COVID-19 dans le Nord et son fils Romain est en première ligne comme médecin militaire urgentiste dans l’Est. Je suis en contact avec eux.
+- L'expérience que j'ai acquise du système de santé des pays en voie de développement lors de mes missions montre le courage et la capacité d'adaptation des médecins face à la pénurie d'équipement, ces mêmes qualités dont nous avons besoin maintenant en France.
