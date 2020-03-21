@@ -75,6 +75,7 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 ### Vous avez une expertise utile
 
 - Rejoindre un des projets de la liste ou participer à l'appel à projet du ministère de la défense. [Appel à projet FR](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
+- Rajouter des projets, corriger des fautes en faisant une Pull Request sur ce repository.
 
 ---
 
