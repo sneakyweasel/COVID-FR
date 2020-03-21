@@ -1,4 +1,4 @@
-# COVID-FR
+# Liste des projets open-hardware COVID-FR
 
 Liste des projets open-source pour pallier rapidement à la crise sanitaire du COVID-19.
 
@@ -36,6 +36,8 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 - Un des principaux problèmes est l'acheminement des matériels fabriqués vers les hôpitaux et ceux qui en ont besoin. On pourrait imaginer que la Poste, les livreurs ou un autre service récupère la production des particuliers et l'achemine vers les hôpitaux locaux.
 - On pourrait imaginer de petites unités de production de quelques imprimantes situées dans/à coté des hôpitaux qui produiraient en flux tendu les éléments nécessaires pour le personnel soignant.
 
+---
+
 ## Liste des projets intéressants
 
 Veuillez me contacter à cette adresse <philippe@cochin.fr> si vous souhaitez ajouter des projets à cette liste.
@@ -59,6 +61,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Fabriquants / distributeurs de feuille plastique transparent d'environ 5mm
   - Imprimantes de particuliers / mise à disposition des parcs d'imprimantes à la demande (FabLab, particuliers, services à la demande, etc.)
   - Solution logistique pour les faire arriver rapidement au personnel soignant malgré le confinement.
+ ![Visière PRUSA RC2](/assets/images/prusa-rc2.png "Philadelphia's Magic Gardens")
 
 #### Visière de protection minimale par découpe laser (Statut: OK)
 
