@@ -185,7 +185,8 @@ Une communauté active de plusieurs centaines de personnes travaille dèjà (en 
 - **VALIDATION** En cours, plusieurs médecins impliqués.
 - **SITE** <https://docs.google.com/document/d/1ly9UT5F0uIXBLi50U1m13eHRYHaN_rhwDnVimA0W1iI/edit>
   
-![Respirateur Ambubag](/assets/images/respirateur-ambubag.png "respirateur ambubag")
+![Respirateur Ambubag](/assets/images/respirateur-ambubag-1.png "respirateur ambubag")
+![Respirateur Ambubag](/assets/images/respirateur-ambubag-2.png "respirateur ambubag")
 
 ---
 
