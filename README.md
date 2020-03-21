@@ -86,6 +86,8 @@ Veuillez me contacter à cette adresse <philippe@cochin.fr> si vous souhaitez aj
 
 La protection des soignants est cruciale, la pénurie de moyens de protection est forte et l'utilisation de masque jetables n'est pas forcément optimale si la crise persiste (changement de masque plusieurs fois par jour). Il faudrait une solution plus pérenne.
 
+---
+
 #### Visière de protection imprimées Prusa (Statut: OK) <a name="visiere-prusa"></a>
 
 - **PRESENTATION** Le retour des médecins urgentistes "au front" montre qu'il y a de nombreuses projections par les patients et une forte chance de contamination du personnel soignant. Les autres personnes exposées comme les médecins de ville, caissiers, etc. pourrait également bénéficier de ces visières. La production par les particuliers a déjà commencé, manque la logistique.
@@ -93,15 +95,16 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **VALIDATION** Ce projet a été validé par le ministère de la Santé Tchèque.
 - **TEMPS PAR UNITE** 2h / imprimante
 - **CAHIER DES CHARGES**
-  - 32g de filament PLA / PETG
-  - Feuille de plexiglass (ou autre) de 0.5mm
+  - 32g de filament
+  - Feuille de plastique transparent d'environ 0.5mm au format A4
   - Rouleau de bande élastique
+- **MATERIEL**
+  - Imprimantes 3D
   - Perforeuse de bureau
 - **PRIX PAR UNITE** 1-2€
-- **BESOINS**
-  - Fabriquants / distributeurs de feuille de plastique transparent d'environ 0.5mm d'épaisseur.
-  - Imprimantes de particuliers / mise à disposition des parcs d'imprimantes à la demande (FabLab, particuliers, services à la demande, etc.)
  ![Visière PRUSA RC2](/assets/images/prusa-rc2.png "PRUSA RC2")
+
+---
 
 #### Visière de protection minimale par découpe laser (Statut: OK) <a name="visiere-laser"></a>
 
@@ -110,19 +113,31 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **VALIDATION** Projet non validé mais proche de la visière PRUSA.
 - **TEMPS PAR UNITE** 1h30 de découpe sur machine de faible puissance
 - **CAHIER DES CHARGES**
-  - Feuille de PETG 0.5mm (tout plastique transparent fin équivalent)
+  - Feuille de PETG 0.5mm (ou autre similaire)
   - Deux élastiques de 9cm de diamètre.
+- **MATERIEL**
+  - Découpeuse laser
 - **PRIX PAR UNITE** 1-2€
 ![Visière Laser](/assets/images/visiere-laser.png "Visière Laser")
+
+---
 
 #### Masque de protection FPP2 jetable imprimé 3D (Statut: Non validé) <a name="masque-copper"></a>
 
 - **PRESENTATION** Impression d'un masque N95 (FPP2) utilisant du filament Copper3D qui semblerait indiqué pour le matériel médical.
 - **SITE** [Masque N95](https://www.atome3d.com/blogs/news/hackthepandemic-creez-votre-masque-3d)
 - **VALIDATION** Non validé
+- **TEMPS PAR UNITE** 2h 30
+- **CAHIER DES CHARGES**
+  - Filament Copper
+  - Filtre HEPA
+- **MATERIEL**
+  - Imprimante 3D
 - **PRIX PAR UNITE** 5€
 ![Masque Copper](/assets/images/masque-copper-1.png "Masque Copper")
 ![Masque Copper](/assets/images/masque-copper-2.png "Masque Copper")
+
+---
 
 #### Projet de masque réutilisables à pression positive PAPR (Statut: En cours) <a name="papr"></a>
 
@@ -159,6 +174,8 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 Les anglais estiment visiblement à 25000 le pic de besoin en respirateurs, il en ont visiblement 5000 disponibles. Plusieurs idées et projets pourraient être d’une utilité vitale.
 Une communauté active de plusieurs centaines de personnes travaille dèjà (en anglais) sur ces projets [Helful Engineer](https://github.com/Helpful-Engineers/resources)
 
+---
+
 #### Valve de dédoublement des respirateurs médicaux (Statut: OK) <a name="valve-dedoublement"></a>
 
 - **PRESENTATION** Si les patients ont environ le même volume pulmonaire il est possible d'alimenter jusqu'à 4 patients avec le même respirateur sans trop leur nuire. Cela augmente potentiellement la capacité de réanimation ventilatoire existante. [Article Hackaday](https://hackaday.com/2020/03/19/saving-4-patients-with-just-1-ventilator/), [Vidéo](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
@@ -172,9 +189,13 @@ Une communauté active de plusieurs centaines de personnes travaille dèjà (en 
   - Besoin de connaitre les modèles des hôpitaux français, les tailles d'entrée, sortie pour le design paramétrique.
   - A quel point cela gène-t'il les patients?
 
+---
+
 #### Respirateurs vétérinaires <a name="respirateur-veterinaire"></a> (Statut: En cours)
 
 - **PRESENTATION** Il semblerait que les anglais aient réquisitionné certains ventilateurs vétérinaires possèdant des caractéristiques proches de ceux pour les humains.
+
+---
 
 ### Projet d'adaptation de respirateur CPAP (Statut: Avancé) <a name="respirateur-cpap"></a>
 
