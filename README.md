@@ -81,7 +81,7 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 
 ## Liste des projets intéressants <a name="liste"></a>
 
-Veuillez me contacter à cette adresse <philippe@cochin.fr> si vous souhaitez ajouter des projets à cette liste.
+Veuillez me contacter à cette adresse <philippe@cochin.fr> si vous souhaitez ajouter des projets à cette liste. Une partie de ces projets est accessible en anglais depuis cette page: <https://docs.google.com/spreadsheets/d/19BU6PRRLOAudCeL-yfuzkKgpkxPu5_wGnnUQsEWHfA4/edit#gid=1357829364>
 
 ### Protection des soignants <a name="liste-protections"></a>
 
