@@ -28,8 +28,8 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
   
 ## Liste des appels à projet / concours internationaux COVID
 
-- [Ministère de la Défense FR](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
-- [Université Mc Gill Canada](https://www.agorize.com/fr/challenges/code-life-challenge)
+- [Ministère de la Défense France - Appel à projets](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
+- [Université Mc Gill Canada - Concours de design industriel](https://www.agorize.com/fr/challenges/code-life-challenge)
 
 ## Logistique
 
@@ -38,7 +38,7 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 
 ## Liste des projets intéressants
 
-Veuillez me contacter si vous souhaitez ajouter des projets à cette liste.
+Veuillez me contacter à cette adresse <philippe@cochin.fr> si vous souhaitez ajouter des projets à cette liste.
 
 ### Protection des soignants
 
