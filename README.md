@@ -2,7 +2,7 @@
 
 Liste des projets open-source pour pallier rapidement à la crise sanitaire du COVID-19.
 
-DISCLAIMER: Ces différents projets de matériel médical d'urgence open-source ne sont pas homologués. Il proviennent d'un effort collectif international pour trouver des solutions très rapide aux pénuries du COVID.
+DISCLAIMER: Ces différents projets de matériel médical d'urgence open-source ne sont pas homologués. Il proviennent d'un effort collectif international pour trouver des solutions très rapide aux pénuries due au COVID.
 Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) que vous pouvez déjà imprimer et assembler.
 
 ## Présentation
@@ -59,6 +59,16 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Fabriquants / distributeurs de feuille plastique transparent d'environ 5mm
   - Imprimantes de particuliers / mise à disposition des parcs d'imprimantes à la demande (FabLab, particuliers, services à la demande, etc.)
   - Solution logistique pour les faire arriver rapidement au personnel soignant malgré le confinement.
+
+#### Visière de protection minimale par découpe laser (Statut: OK)
+
+- **PRESENTATION** Une visière de protection simple créée par des ingénieurs polonais avec seulement une découpeuse laser.
+- **SITE** [Hackaday](https://hackaday.io/project/170481-laser-cut-medical-shield)
+- **TEMPS PAR UNITE** 1h30 de découpe sur machine de faible puissance
+- **CAHIER DES CHARGES**
+  - Feuille de PETG 0.5mm (tout plastique transparent fin équivalent)
+  - Deux élastiques de 9cm de diamètre.
+- **PRIX PAR UNITE** 1-2€
 
 #### Projet de masque réutilisables à pression positive PAPR (Statut: En cours)
 
