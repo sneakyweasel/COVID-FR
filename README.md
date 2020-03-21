@@ -2,6 +2,9 @@
 
 Liste des projets open-source pour pallier rapidement à la crise sanitaire du COVID-19.
 
+DISCLAIMER: Ces différents projets de matériel médical d'urgence open-source ne sont pas homologués. Il proviennent d'un effort collectif international pour trouver des solutions très rapide aux pénuries du COVID.
+Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) que vous pouvez déjà imprimer et assembler.
+
 ## Présentation
 
 - Plusieurs efforts open-source collaboratifs sont en cours et la communauté makers / hackers se mobilise pour tenter de pallier très rapidement au manque critique de matériel.
@@ -30,7 +33,7 @@ Liste des projets open-source pour pallier rapidement à la crise sanitaire du C
 
 ## Logistique
 
-- Un des principaux problèmes est l'acheminement des matériels fabriqués vers les hopitaux et ceux qui en ont besoin. On pourrait imaginer que la Poste, les livreurs ou un autre service récupère la production des particuliers et l'achemine vers les hôpitaux locaux.
+- Un des principaux problèmes est l'acheminement des matériels fabriqués vers les hôpitaux et ceux qui en ont besoin. On pourrait imaginer que la Poste, les livreurs ou un autre service récupère la production des particuliers et l'achemine vers les hôpitaux locaux.
 - On pourrait imaginer de petites unités de production de quelques imprimantes situées dans/à coté des hôpitaux qui produiraient en flux tendu les éléments nécessaires pour le personnel soignant.
 
 ## Liste des projets intéressants
@@ -39,11 +42,11 @@ Veuillez me contacter si vous souhaitez ajouter des projets à cette liste.
 
 ### Protection des soignants
 
-La protection des soignants est cruciale, la pénurie de moyens de protection est forte et l'utilisation de masque jetables n'est pas forcément optimale si la crise persiste (changement de masque toutes les 8h). Il faudrait une solution plus pérenne.
+La protection des soignants est cruciale, la pénurie de moyens de protection est forte et l'utilisation de masque jetables n'est pas forcément optimale si la crise persiste (changement de masque plusieurs fois par jour). Il faudrait une solution plus pérenne.
 
 #### Visière de protection imprimées Prusa (Statut: OK)
 
-- **PRESENTATION** Le retour des médecins urgentistes "au front" montre qu'il y a de nombreuses projections par les patients et une forte chance de contamination du personnel soignant. Les autres personnes exposés comme les médecins de ville, caissiers, etc. pourrait également bénéficier de ces visières. La production a déjà commencé, manque la logistique.
+- **PRESENTATION** Le retour des médecins urgentistes "au front" montre qu'il y a de nombreuses projections par les patients et une forte chance de contamination du personnel soignant. Les autres personnes exposées comme les médecins de ville, caissiers, etc. pourrait également bénéficier de ces visières. La production par les particuliers a déjà commencé, manque la logistique.
 - **SITE** [Visière PRUSA](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1)
 - **VALIDATION** Ce projet a été validé par le ministère de la Santé Tchèque.
 - **TEMPS PAR UNITE** 2h / imprimante soit 12 visières / jour / imprimante
@@ -57,7 +60,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Imprimantes de particuliers / mise à disposition des parcs d'imprimantes à la demande (FabLab, particuliers, services à la demande, etc.)
   - Solution logistique pour les faire arriver rapidement au personnel soignant malgré le confinement.
 
-#### Projet de masque réutilisables à pression positive PAPR "Snorky" (Statut: En cours)
+#### Projet de masque réutilisables à pression positive PAPR (Statut: En cours)
 
 - **PRESENTATION** Les respirateurs à pression positive mettent sous pression légère l'équipement de protection de façon à ce qu'en cas de fuite l'air contaminé ne puisse pas rentrer. C'est la protection utilisée dans les laboratoires de virologie BSL-3 et un des meilleurs équipement possible pour les soignants. [PAPR](https://en.wikipedia.org/wiki/Powered_air-purifying_respirator) (Besoin de traduction wikipedia FR). Le projet utilise un masque de plongée intégral (largement disponible et très bien conçus: Décathlon Easybreath, visiblement plusieurs milliers en stock) qui est confortable et par définition étanche modifié pour recevoir un équipement de filtration FPP3 à la place du tuba.
 - **VALIDATION** En cours
@@ -109,7 +112,7 @@ Une communauté active de plusieurs dizaines de personnes travaille dèjà (en a
 
 ### Projet d'adaptation de respirateur CPAP (Statut: Avancé)
 
-- **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. C'est le projet actuel qui semble le plus avancé.
+- **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. C'est le projet actuel qui semble le plus avancé, le matériel est déja homologué (pas ses modifications).
 - **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
 
 ### AUTRES
