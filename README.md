@@ -13,6 +13,7 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
    3. [Concours et appels à projet](#concours)
    4. [Logistique](#logistique)
    5. [Précautions](#precautions)
+   6. [Contribuer](#contribuer)
 2. [Liste des projets](#liste)
    1. [Protections](#liste-protections)
       1. [Visière PRUSA](#visiere-prusa)
@@ -61,6 +62,19 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 
 - Les éléments produits doivent être fabriqués avec port de masque et de gants et les pièces rapidement emballées dans des sacs zip stériles et hermétiques pour éviter d'envoyer du matériel potentiellement contaminé.
 - La durée de vie du virus sur le plastique étant de 2-3 jours, le matériel devra être porté 2-3 jours après sa fabrication pour garantir qu'il n'y ai pas de contamination.
+
+## Contribuer maintenant <a name="contribuer"></a>
+
+### Vous avez une / des imprimantes
+
+- Vous pouvez dès à présent configurer vos imprimantes pour assurer la non-contamination de votre production. Procédez comme si vous étiez contaminés: gants, masques, etc. Si possible faites valider votre installation de production par un professionnel de santé.
+- Acheter des stocks de filament PLA et PET (sans vider les stocks) afin de pouvoir imprimer en continu 24/24 pendant plusieurs jours/semaines.
+- Acheter les autres stocks nécessaires (sans vider les stocks): Feuilles plastiques transparentes, bandes élastiques, pochettes zip hermétiques pour l'envoi avec date de production marquée, etc.
+- Mobiliser vos amis ayant des capacités de production rapide et vérifier la conformité de leur installation.
+
+### Vous avez une expertise utile
+
+- Rejoindre un des projets de la liste ou participer à l'appel à projet du ministère de la défense. [Appel à projet FR](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
 
 ---
 
