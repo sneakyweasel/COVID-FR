@@ -102,7 +102,8 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Imprimantes 3D
   - Perforeuse de bureau
 - **PRIX PAR UNITE** 1-2€
- ![Visière PRUSA RC2](/assets/images/prusa-rc2.png "PRUSA RC2")
+  
+![Visière PRUSA RC2](/assets/images/prusa-rc2.png "PRUSA RC2")
 
 ---
 
@@ -118,6 +119,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **MATERIEL**
   - Découpeuse laser
 - **PRIX PAR UNITE** 1-2€
+  
 ![Visière Laser](/assets/images/visiere-laser.png "Visière Laser")
 
 ---
@@ -134,7 +136,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 - **MATERIEL**
   - Imprimante 3D
 - **PRIX PAR UNITE** 5€
-![Masque Copper](/assets/images/masque-copper-1.png "Masque Copper")
+
 ![Masque Copper](/assets/images/masque-copper-2.png "Masque Copper")
 
 ---
