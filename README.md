@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 # Liste des projets open-hardware COVID-FR
 
 Liste des projets open-source pour pallier rapidement à la crise sanitaire du COVID-19.
@@ -25,7 +26,7 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
       2. [Respirateur OpenLung](#respirateur-openlung)
       3. [Respirateur CPAP](#respirateur-cpap)
       4. [Valve de dédoublement](#valve-dedoublement)
-   3. [Autres]
+   3. [Autres](#autres)
       1. [Respirateur vétérinaire](#respirateur-veterinaire)
 3. [FAQ]
 
