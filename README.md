@@ -21,9 +21,10 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
       3. [Masque Copper](#masque-copper)
       4. [PAPR](#papr)
    2. [Respirateurs](#liste-respirateurs)
-      1. [Respirateur ambubag](#respirateur-ambubag)
-      2. [Respirateur CPAP](#respirateur-cpap)
-      3. [Valve de dédoublement](#valve-dedoublement)
+      1. [Respirateur Ambubag](#respirateur-ambubag)
+      2. [Respirateur OpenLung](#respirateur-openlung)
+      3. [Respirateur CPAP](#respirateur-cpap)
+      4. [Valve de dédoublement](#valve-dedoublement)
    3. [Autres]
       1. [Respirateur vétérinaire](#respirateur-veterinaire)
 3. [FAQ]
@@ -51,6 +52,7 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 
 - [Ministère de la Défense France - Appel à projets](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
 - [Université Mc Gill Canada - Concours de design industriel](https://www.agorize.com/fr/challenges/code-life-challenge)
+- [Irlande - Ventilateur opensource](https://opensourceventilator.ie/)
 
 ## Logistique <a name="logistique"></a>
 
@@ -177,16 +179,33 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 Les anglais estiment visiblement à 25000 le pic de besoin en respirateurs, il en ont visiblement 5000 disponibles. Plusieurs idées et projets pourraient être d’une utilité vitale.
 Une communauté active de plusieurs centaines de personnes travaille dèjà (en anglais) sur ces projets [Helful Engineer](https://github.com/Helpful-Engineers/resources)
 
+#### Publications scientifiques
+
+- [Publication MIT](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf)
+- [Publication Rice University](http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096)
+
 ---
 
-#### Respirateur basique ambubag <a name="respirateur-ambubag"></a>
+#### Respirateur basique ambubag (Statut: en cours) <a name="respirateur-ambubag"></a>
 
 - **PRESENTATION** Un mécanisme simple transforme un ambubag de ventilation manuel en un ambubag automatisé.
-- **VALIDATION** En cours, plusieurs médecins impliqués.
+- **VALIDATION** En cours, plusieurs médecins ont validé.
 - **SITE** <https://docs.google.com/document/d/1ly9UT5F0uIXBLi50U1m13eHRYHaN_rhwDnVimA0W1iI/edit>
   
 ![Respirateur Ambubag](/assets/images/respirateur-ambubag-1.png "respirateur ambubag")
 ![Respirateur Ambubag](/assets/images/respirateur-ambubag-2.png "respirateur ambubag")
+
+---
+
+#### Respirateur OpenLung (Statut: avancé)<a name="respirateur-openlung"></a>
+
+- **PRESENTATION** Un projet avancé qui transforme un ambubag de ventilation manuel en respirateur automatisé. (Besoin de traduction FR)
+- **VALIDATION** En cours, médecins liés au projet.
+- **SITE**
+  - <https://gitlab.com/TrevorSmale/OSV-OpenLung>
+  - <https://opensourceventilator.ie/>
+
+![Respirateur OpenLung](/assets/images/respirateur-openlung.png "respirateur openlung")
 
 ---
 
