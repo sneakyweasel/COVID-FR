@@ -21,10 +21,11 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
       3. [Masque Copper](#masque-copper)
       4. [PAPR](#papr)
    2. [Respirateurs](#liste-respirateurs)
-      1. [Valve de dédoublement](#valve-dedoublement)
-      2. [Respirateur vétérinaire](#respirateur-veterinaire)
-      3. [Respirateur CPAP](#respirateur-cpap)
+      1. [Respirateur ambubag](#respirateur-ambubag)
+      2. [Respirateur CPAP](#respirateur-cpap)
+      3. [Valve de dédoublement](#valve-dedoublement)
    3. [Autres]
+      1. [Respirateur vétérinaire](#respirateur-veterinaire)
 3. [FAQ]
 
 ## Présentation <a name="presentation"></a>
@@ -178,7 +179,26 @@ Une communauté active de plusieurs centaines de personnes travaille dèjà (en 
 
 ---
 
-#### Valve de dédoublement des respirateurs médicaux (Statut: OK) <a name="valve-dedoublement"></a>
+#### Respirateur basique ambubag <a name="respirateur-ambubag"></a>
+
+- **PRESENTATION** Un mécanisme simple transforme un ambubag de ventilation manuel en un ambubag automatisé.
+- **VALIDATION** En cours, plusieurs médecins impliqués.
+- **SITE** <https://docs.google.com/document/d/1ly9UT5F0uIXBLi50U1m13eHRYHaN_rhwDnVimA0W1iI/edit>
+  
+![Respirateur Ambubag](/assets/images/respirateur-ambubag.png "respirateur ambubag")
+
+---
+
+### Projet d'adaptation de respirateur CPAP (Statut: Avancé) <a name="respirateur-cpap"></a>
+
+- **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. C'est le projet actuel qui semble le plus avancé, le matériel est déja homologué (pas ses modifications).
+- **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
+
+![Respirateur CPAP](/assets/images/respirateur-cpap.jpg "respirateur CPAP")
+
+---
+
+#### Valve de dédoublement des respirateurs médicaux (Statut: OK avec réserves) <a name="valve-dedoublement"></a>
 
 - **PRESENTATION** Si les patients ont environ le même volume pulmonaire il est possible d'alimenter jusqu'à 4 patients avec le même respirateur sans trop leur nuire. Cela augmente potentiellement la capacité de réanimation ventilatoire existante. [Article Hackaday](https://hackaday.com/2020/03/19/saving-4-patients-with-just-1-ventilator/), [Vidéo](https://www.youtube.com/watch?v=uClq978oohY&feature=emb_title)
 - **VALIDATION** Oui avec réserves (Publication: <https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009>)
@@ -192,15 +212,6 @@ Une communauté active de plusieurs centaines de personnes travaille dèjà (en 
   - A quel point cela gène-t'il les patients?
 
 ![Valve de dédoublement](/assets/images/valve-dedoublement.png "2-way valve")
-
----
-
-### Projet d'adaptation de respirateur CPAP (Statut: Avancé) <a name="respirateur-cpap"></a>
-
-- **PRESENTATION** Convertir un respirateur pour les apnées du sommeil en changeant son logiciel afin de le convertir pour le COVID-19. C'est le projet actuel qui semble le plus avancé, le matériel est déja homologué (pas ses modifications).
-- **SITE** [Fichiers et Code](https://github.com/jcl5m1/ventilator)
-
-![Respirateur CPAP](/assets/images/respirateur-cpap.jpg "respirateur CPAP")
 
 ---
 
@@ -239,7 +250,7 @@ Les étapes de ce circuit court en heures / jours pourraient être:
 - Dessin paramétrique 3D d’un modèle basique fonctionnel
 - Validation par un panel d’experts et ingénieurs confinés ou à la retraite
 - Publication du modèle 3D libre de droit sur des plateforme de distribution comme GitHub ou Thingiverse.
-- Téléchargement du modèle 3D par les parcs d’imprimantes / particuliers 
+- Téléchargement du modèle 3D par les parcs d’imprimantes / particuliers
 - Impression des pièces dans l’hôpital ou livraison express
 - Retour des soignants sur les défauts / amélioration des pièces produites.
 - Nouveau cycle de dessin, d’amélioration, impression et distribution pour la v2, v3, etc. tous les quelques jours.
