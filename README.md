@@ -61,7 +61,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Fabriquants / distributeurs de feuille plastique transparent d'environ 5mm
   - Imprimantes de particuliers / mise à disposition des parcs d'imprimantes à la demande (FabLab, particuliers, services à la demande, etc.)
   - Solution logistique pour les faire arriver rapidement au personnel soignant malgré le confinement.
- ![Visière PRUSA RC2](/assets/images/prusa-rc2.png "Philadelphia's Magic Gardens")
+ ![Visière PRUSA RC2](/assets/images/prusa-rc2.png "PRUSA RC2")
 
 #### Visière de protection minimale par découpe laser (Statut: OK)
 
@@ -73,6 +73,7 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
   - Feuille de PETG 0.5mm (tout plastique transparent fin équivalent)
   - Deux élastiques de 9cm de diamètre.
 - **PRIX PAR UNITE** 1-2€
+- ![Visière Laser](/assets/images/visiere-laser.png "Visière Laser")
 
 #### Masque de protection FPP2 jetable imprimé 3D (Statut: Non validé)
 
