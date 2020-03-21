@@ -9,7 +9,7 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 
 - Plusieurs efforts open-source collaboratifs sont en cours et la communauté makers / hackers se mobilise pour tenter de pallier très rapidement au manque critique de matériel.
 - J’ai cofondé une NGO médicale il y plus de 10 ans [Action Aide Asie](http://actionaideasie.com/) avec lequel j’ai fait plusieurs dizaines de missions en Asie du Sud-Est, je m’occupe également d’une association de précarité lourde en milieu hospitalier en France. [Amis des Malades](http://amisdesmalades.com/)
-- Mon oncle Christophe est responsable de l’hôpital COVID-19 de Calot et son fils Romain est en première ligne comme médecin militaire urgentiste dans l’Est. Je suis en contact avec eux et ils ont manifesté le besoin urgent de certains équipements.
+- Mon oncle Christophe est responsable d'un hôpital COVID-19 dans le Nord et son fils Romain est en première ligne comme médecin militaire urgentiste dans l’Est. Je suis en contact avec eux.
 - L'expérience que j'ai acquise du système de santé des pays en voie de développement lors de mes missions montre le courage et la capacité d'adaptation des médecins face à la pénurie d'équipement, ces mêmes qualités dont nous avons besoin maintenant en France.
 
 ## Situation
