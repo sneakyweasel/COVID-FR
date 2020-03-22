@@ -9,10 +9,14 @@ Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.p
 Cours en ligne gratuit sur la [ventilation COVID-19](https://www.fun-mooc.fr/courses/course-v1:UPEC+169003+cv_01/about)
 
 Avec le soutien des associations:
-<!-- ![Amis des Malades](/assets/images/AMC.jpeg =300px) -->
-<img src="./assets/images/AMC.jpeg" alt="drawing" height="200"/>
-<!-- ![Action Aide Asie](/assets/images/AAA.jpeg =300px) -->
-<img src="./assets/images/AAA.jpeg" alt="drawing" height="200"/>
+<div>
+  <span>
+  <img src="./assets/images/AMC.jpeg" alt="drawing" height="200"/>
+  </span>
+  <span>
+  <img src="./assets/images/AAA.jpeg" alt="drawing" height="200"/>
+  </span>
+</div>
 
 ## Table des matières
 
