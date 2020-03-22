@@ -6,6 +6,14 @@ Liste des projets open-source pour pallier rapidement à la crise sanitaire du C
 IMPORTANT: Ces différents projets de matériel médical d'urgence open-source ne sont pas homologués. Il proviennent d'un effort collectif international pour trouver des solutions très rapides aux pénuries due au COVID-19.
 Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) que vous pouvez déjà imprimer et assembler.
 
+Cours en ligne gratuit sur la [ventilation COVID-19](https://www.fun-mooc.fr/courses/course-v1:UPEC+169003+cv_01/about)
+
+Avec le soutien des associations:
+<!-- ![Amis des Malades](/assets/images/AMC.jpeg =300px) -->
+<img src="./assets/images/AMC.jpeg" alt="drawing" height="200"/>
+<!-- ![Action Aide Asie](/assets/images/AAA.jpeg =300px) -->
+<img src="./assets/images/AAA.jpeg" alt="drawing" height="200"/>
+
 ## Table des matières
 
 1. [Présentation](#presentation)
