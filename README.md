@@ -6,15 +6,13 @@ Liste des projets open-source pour pallier rapidement à la crise sanitaire du C
 IMPORTANT: Ces différents projets de matériel médical d'urgence open-source ne sont pas homologués. Il proviennent d'un effort collectif international pour trouver des solutions très rapides aux pénuries due au COVID-19.
 Le seul projet vérifié est la [visière de protection PRUSA RC2](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) que vous pouvez déjà imprimer et assembler.
 
-Cours en ligne gratuit sur la [ventilation COVID-19](https://www.fun-mooc.fr/courses/course-v1:UPEC+169003+cv_01/about)
-
 Avec le soutien des associations:
 <div>
   <span>
-  <img src="./assets/images/AMC.jpeg" alt="drawing" height="200"/>
+    <img src="./assets/images/AMC.jpeg" alt="drawing" height="200"/>
   </span>
   <span>
-  <img src="./assets/images/AAA.jpeg" alt="drawing" height="200"/>
+    <img src="./assets/images/AAA.jpeg" alt="drawing" height="200"/>
   </span>
 </div>
 
@@ -24,9 +22,10 @@ Avec le soutien des associations:
    1. [Situation](#situation)
    2. [Collaboration](#collaboration)
    3. [Concours et appels à projet](#concours)
-   4. [Logistique](#logistique)
-   5. [Précautions](#precautions)
-   6. [Contribuer](#contribuer)
+   4. [Cours en ligne gratuits COVID-19](#cours)
+   5. [Logistique](#logistique)
+   6. [Précautions](#precautions)
+   7. [Contribuer](#contribuer)
 2. [Liste des projets](#liste)
    1. [Protections](#liste-protections)
       1. [Visière PRUSA](#visiere-prusa)
@@ -66,6 +65,11 @@ Avec le soutien des associations:
 - [Ministère de la Défense France - Appel à projets](https://www.defense.gouv.fr/aid/appels-a-projets/appel-a-projets-lutte-covid-19)
 - [Université Mc Gill Canada - Concours de design industriel](https://www.agorize.com/fr/challenges/code-life-challenge)
 - [Irlande - Ventilateur opensource](https://opensourceventilator.ie/)
+
+## Cours en ligne gratuits COVID-19 <a name="cours"></a>
+
+- En français: [MOOC: Ventilation COVID-19](https://www.fun-mooc.fr/courses/course-v1:UPEC+169003+cv_01/about)
+- En anglais: [Coursera: COVID-19](https://www.coursera.org/learn/covid-19)
 
 ## Logistique <a name="logistique"></a>
 
@@ -194,6 +198,8 @@ La protection des soignants est cruciale, la pénurie de moyens de protection es
 Les anglais estiment à 25000 le pic de besoin en respirateurs, ils en ont visiblement 5000 disponibles. Plusieurs idées et projets pourraient être d’une utilité vitale.
 Une communauté active de plusieurs centaines de personnes travaille dèjà (en anglais) sur ces projets [Helpful Engineers](https://github.com/Helpful-Engineers/resources)
 Les projets les plus prometteurs sont autour de l'utilisation des [Ballon autoremplisseur à valve unidirectionnelle](https://fr.wikipedia.org/wiki/Ballon_autoremplisseur_%C3%A0_valve_unidirectionnelle) largement disponibles et homologués (aussi appellés Ambubag et BVM, BAVU).
+
+---
 
 #### Publications scientifiques
 
