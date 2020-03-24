@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD033 -->
 # Liste des projets open-hardware COVID-FR
 
+[La liste a été déplacée, cliquez sur ce lien pour vous y rendre.](https://github.com/AmisDesMalades/COVID)
+
 Liste des projets open-source pour pallier rapidement à la crise sanitaire du COVID-19.
 
 IMPORTANT: Ces différents projets de matériel médical d'urgence open-source ne sont pas homologués. Il proviennent d'un effort collectif international pour trouver des solutions très rapides aux pénuries due au COVID-19.
