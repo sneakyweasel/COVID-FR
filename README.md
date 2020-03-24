@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 # Liste des projets open-hardware COVID-FR
 
-[La liste a été déplacée, cliquez sur ce lien pour vous y rendre.](https://github.com/AmisDesMalades/COVID)
+## [La liste a été déplacée, cliquez sur ce lien pour vous y rendre.](https://github.com/AmisDesMalades/COVID)
 
 Liste des projets open-source pour pallier rapidement à la crise sanitaire du COVID-19.
 
